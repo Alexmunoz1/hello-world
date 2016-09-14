@@ -1,0 +1,18 @@
+
+body { 
+    background-image: url("https://wallpaperscraft.com/image/razer_logo_symbol_shape_85252_602x339.jpg")
+}
+  
+.banner {
+    background-color: #00FF1B;
+    text-align: center;
+    border-radius: 10px   
+}
+
+.container {
+    background-color: #0EBEF1;
+    border-radius: 10px;
+}
+div {
+      border: 1px solid red;
+      
