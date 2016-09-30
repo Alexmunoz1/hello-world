@@ -1,0 +1,11 @@
+.banner {
+    background-color: #39FAA8;
+    text-align: center;
+    border-radius: 10px   
+}
+.container {
+    background-color: #0EBEA1;
+    border-radius: 10px;
+}
+div {
+      border: 1px solid black;
